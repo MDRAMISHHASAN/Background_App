@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Background App</string>
+    <string name="status_message">Hi Ramish</string>
+    <string name="click_me">Click Me</string>
+    <string name="message_status">Hi Ramish</string>
+</resources>
